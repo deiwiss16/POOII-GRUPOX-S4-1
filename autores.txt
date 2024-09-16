@@ -1,0 +1,8 @@
+001	Mario Vargas Llosa
+002	Jose Maria Arguedas
+003	Cesar Vallejo
+004	Stephen King
+0010	sssss
+0006	0006
+007	Carlos Quispe
+0057	Martin Bartolo

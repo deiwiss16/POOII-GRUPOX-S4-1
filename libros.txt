@@ -1,0 +1,10 @@
+9786124262708	La ciudad y los perros	001	Una de las Novelas Fundamentales de la Literatura Contemporánea en Español.	Terror	true	false
+9788420461885	Los rios profundos	002	Una novela fundamental de la literatura en castellano del siglo XX. Un autor a la altura de Rulfo y alabado por autores como Gabriel García Márquez. Nueva edición conmemorativa de la Real Academia Española y la Asociación de Academias de la Lengua Española.	Romance	false	true
+9789972404498	Trilce	003	poemas	Ciencia Ficción	false	true
+89471	LUISSSSSSSSSSssss	001	vasdvasfv	Romance	false	false
+8949815	martinnnnnnn	001	asdfsdaf	Ciencia Ficción	true	true
+894815	asdcasdcd	001	dsasdc	Fantasía	true	true
+8458484	addas	003	adsfasdf	Ciencia Ficción	true	false
+9786124262708	La ciudad y los perros	001	asdsadcdsc	Terror	true	false
+9786124262708	asdvcas	001	avsdvsd	Fantasía	true	true
+9786124262708	ssssssss	001	dcasdvasdvaadsv	Terror	true	true
